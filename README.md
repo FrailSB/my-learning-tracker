@@ -8,39 +8,68 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 ## Skills
 
-[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
+[done]: static/checked.png "Done"
 
-|               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
+|             Frontend             | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**ES6**                           |                   |               |               |                  |                |                 |
-|**React**                         |                   |               |               |                  |                |                 |
-|**Redux**                         |                   |               |               |                  |                |                 |
-|**Git**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Git bash**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Bitbucket**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Gulp/Webpack**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Agile**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Stylus**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Sass**                          |                   |               |               |                  |                |                 |
+|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Bulma**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Materialize**                   |                   |               |               |                  |                |                 |
+|**React.js**                      |                   |               |               |                  |                |                 |
+|**Vue**                           |                   |               |               |                  |                |                 |
+|**Angular**                       |                   |               |               |                  |                |                 |
+|**Redux**                         |                   |               |               |                  |                |                 |
+|**Apollo**                        |                   |               |               |                  |                |                 |
+|**VueX**                          |                   |               |               |                  |                |                 |
+|**NgRx**                          |                   |               |               |                  |                |                 |
+
+
+|             Backend              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
+|:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
+|**Node.js**                       |                   |               |               |                  |                |                 |
+|**Python**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**PHP**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**C#**                            |                   |               |               |                  |                |                 |
+|**Go**                            |                   |               |               |                  |                |                 |
+|**Ruby**                          |                   |               |               |                  |                |                 |
+|**Express.js**                    |                   |               |               |                  |                |                 |
+|**Koa**                           |                   |               |               |                  |                |                 |
+|**Adonis**                        |                   |               |               |                  |                |                 |
+|**Django**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Flask**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Laravel**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Sympony**                       |                   |               |               |                  |                |                 |
+|**Yii**                           |                   |               |               |                  |                |                 |
+|**MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**PostgreSQL**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**MongoDB**                       |                   |               |               |                  |                |                 |
+|**Couchbase**                     |                   |               |               |                  |                |                 |
+|**Firebase**                      |                   |               |               |                  |                |                 |
+|**Next.js**                       |                   |               |               |                  |                |                 |
+|**Nuxt.js**                       |                   |               |               |                  |                |                 |
+|**Angular Universal**             |                   |               |               |                  |                |                 |
+
+
+|   Additional Skills              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
+|:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
+|**WordPress**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Drupal**                        |                   |               |               |                  |                |                 |
+|**Magento**                       |                   |               |               |                  |                |                 |
+|**Shopify**                       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Git**                           |      | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Git bash**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Angular 4**                     | ![done][done]     |               |               |                  |                |                 |
-|**NPM scripts**                   | ![done][done]     |               |               |                  |                |          .      |
+|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Terminal**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 
 ----
 
