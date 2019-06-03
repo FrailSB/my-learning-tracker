@@ -8,7 +8,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 ## Skills
 
-[done]: static/correct.png "Done"
+[done]: static/checked-light.png "Done"
 
 |             Frontend             | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
