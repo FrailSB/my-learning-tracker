@@ -55,7 +55,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Firebase**                      |                   |               |               |                  |                |                 |
 |**Next.js**                       |                   |               |               |                  |                |                 |
 |**Nuxt.js**                       |                   |               |               |                  |                |                 |
-|**Angular Universal  **           |                   |               |               |                  |                |                 |
+|**Angular Universal (AU)**        |                   |               |               |                  |                |                 |
 
 
 |   Additional Skills              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
