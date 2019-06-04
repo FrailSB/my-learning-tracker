@@ -64,7 +64,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Drupal**                        |                   |               |               |                  |                |                 |
 |**Magento**                       |                   |               |               |                  |                |                 |
 |**Shopify**                       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Git**                           |      | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Git**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Git bash**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
