@@ -8,14 +8,15 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 ## Skills
 
-[done]: static/checked-orange.png "Done"
+[done]: static/checked.png "Done"
 
 |             Frontend             | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Css Grid**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Flex-box**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Sass**                          |                   |               |               |                  |                |                 |
@@ -54,7 +55,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Firebase**                      |                   |               |               |                  |                |                 |
 |**Next.js**                       |                   |               |               |                  |                |                 |
 |**Nuxt.js**                       |                   |               |               |                  |                |                 |
-|**Angular Universal**             |                   |               |               |                  |                |                 |
+|**Angular Universal**&nbsp;&nbsp;  |                   |               |               |                  |                |                 |
 
 
 |   Additional Skills              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
@@ -63,7 +64,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Drupal**                        |                   |               |               |                  |                |                 |
 |**Magento**                       |                   |               |               |                  |                |                 |
 |**Shopify**                       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Git**                           |      | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Git**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Git bash**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
@@ -77,7 +78,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Status images)
 
-[Completed]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Completed"
+[Completed]: static/checked.png "Completed"
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
