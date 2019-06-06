@@ -57,7 +57,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Firebase**                      |                   |               |               |                  |                |                 |
 |**Next.js**                       |                   |               |               |                  |                |                 |
 |**Nuxt.js**                       |                   |               |               |                  |                |                 |
-|**Angular Universal**&nbsp;&nbsp;  |                   |               |               |                  |                |                 |
+|**Angular Universal**&nbsp;&nbsp; |                   |               |               |                  |                |                 |
 
 
 |   Additional Skills              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
@@ -86,11 +86,37 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Date   | Course                                                          |              Teacher                         |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Feb 2019 | [Pre-Programming: Everything you need to know before you code]  | Evan Kimbrell                                |
+| ![Completed][Completed]     | Dec 2018 | [Pre-Programming: Everything you need to know before you code]  | Evan Kimbrell                                |
+| ![Completed][Completed]     | Dec 2018 | [Introduction To Python Programming]                            | Avinash Jain                                 |
+| ![In Progress][In Progress] |          | [PHP Front To Back]                                             | Brad Traversy                                |
+| ![In Progress][In Progress] |          | [Laravel From Scratch]                                          | Brad Traversy                                |
+| ![Soon][Soon]               |          | [Modern HTML & CSS From The Beginning (Including Sass)]         | Brad Traversy                                |
+| ![Soon][Soon]               |          | [Modern JavaScript From The Beginning]                          | Brad Traversy                                |
+| ![Soon][Soon]               |          | [Bootstrap 4 From Scratch With 5 Projects]                      | Brad Traversy                                |
+| ![Soon][Soon]               |          | [Materialize CSS From Scratch With 5 Projects]                  | Brad Traversy                                |
+| ![Soon][Soon]               |          | [React Front To Back 2019 (Hooks, Context, MERN & Redux)]       | Brad Traversy                                |
+| ![Soon][Soon]               |          | [Node.js, Express & MongoDB Dev to Deployment]                  | Brad Traversy                                |
+| ![Soon][Soon]               |          | [MERN Stack Front To Back: Full Stack React, Redux & Node.js]   | Brad Traversy                                |
+| ![Soon][Soon]               |          | [Python Django Dev To Deployment]                               | Brad Traversy                                |
+| ![Soon][Soon]               |          | [Object Oriented PHP & MVC]                                     | Brad Traversy                                |
+| ![Soon][Soon]               |          | [Angular Front To Back]                                         | Brad Traversy                                |
 
 [//]: # (Reference links to courses)
 
 [Pre-Programming: Everything you need to know before you code]: https://www.udemy.com/pre-programming-everything-you-need-to-know-before-you-code/
+[Introduction To Python Programming]: https://www.udemy.com/pythonforbeginnersintro/
+[Laravel From Scratch]: https://www.youtube.com/playlist?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-
+[PHP Front To Back]: https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn
+[Modern HTML & CSS From The Beginning (Including Sass)]: https://www.udemy.com/course/modern-html-css-from-the-beginning/
+[Modern JavaScript From The Beginning]: https://www.udemy.com/modern-javascript-from-the-beginning/
+[Bootstrap 4 From Scratch With 5 Projects]: https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/
+[Materialize CSS From Scratch With 5 Projects]: https://www.udemy.com/materialize-css-from-scratch-with-5-projects/
+[React Front To Back 2019 (Hooks, Context, MERN & Redux)]: https://www.udemy.com/modern-react-front-to-back/
+[Node.js, Express & MongoDB Dev to Deployment]: https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/
+[MERN Stack Front To Back: Full Stack React, Redux & Node.js]: https://www.udemy.com/mern-stack-front-to-back/
+[Python Django Dev To Deployment]: https://www.udemy.com/python-django-dev-to-deployment/
+[Object Oriented PHP & MVC]: https://www.udemy.com/object-oriented-php-mvc/
+[Angular Front To Back]: https://www.udemy.com/angular-4-front-to-back/
 
 ----
 
@@ -138,4 +164,4 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 ### Acknowledgments
 
-This has been partly inspired by **[Syk Houdeib](https://github.com/Syknapse)** a **Junior Frontend Developer**. Huge thanks to **[Brad Traversy](https://github.com/bradtraversy)** a **Full Stack Web Developer**, the person who contribute most of my skills in web development. And of course to [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
+This has been mostly inspired by **[Syk Houdeib](https://github.com/Syknapse)** a **Junior Frontend Developer**. Huge thanks to **[Brad Traversy](https://github.com/bradtraversy)** who contribute most of my learning in web development and I admire the most. And of course to [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
