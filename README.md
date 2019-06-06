@@ -84,9 +84,18 @@ A complete log of my web development skills, learning, resources, highlights, in
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|            Status           |   Date   | Course                                                          |              Teacher                         |
+|            Status           |   Date   | Course                                                          | Tutor                                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Soon][Soon]               |          | [The Complete App Design Course - UX, UI and Design Thinking]   | App Brewery Co.                              |
 | ![Completed][Completed]     | Dec 2018 | [Pre-Programming: Everything you need to know before you code]  | Evan Kimbrell                                |
+| ![In Progress][In Progress] |          | [Responsive Web Design Certification]                           | FFC                                          |
+| ![In Progress][In Progress] |          | [Javascript Algorithms And Data Structures Certification]       | FFC                                          |
+| ![Soon][Soon]               |          | [Front End Libraries Certification]                             | FFC                                          |
+| ![Soon][Soon]               |          | [Data Visualization Certification]                              | FFC                                          |
+| ![Soon][Soon]               |          | [Apis And Microservices Certification]                          | FFC                                          |
+| ![Soon][Soon]               |          | [Information Security And Quality Assurance Certification]      | FFC                                          |
+| ![Soon][Soon]               |          | [Coding Interview Prep]                                         | FFC                                          |
+| ![Soon][Soon]               |          | [JavaScript30]                                                  | Wes Bos                                      |
 | ![Completed][Completed]     | Dec 2018 | [Introduction To Python Programming]                            | Avinash Jain                                 |
 | ![In Progress][In Progress] |          | [PHP Front To Back]                                             | Brad Traversy                                |
 | ![In Progress][In Progress] |          | [Laravel From Scratch]                                          | Brad Traversy                                |
@@ -103,7 +112,16 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
+[The Complete App Design Course - UX, UI and Design Thinking]: https://www.udemy.com/course/the-complete-app-design-course-ux-and-ui-design/
 [Pre-Programming: Everything you need to know before you code]: https://www.udemy.com/pre-programming-everything-you-need-to-know-before-you-code/
+[Responsive Web Design Certification]: https://learn.freecodecamp.org/
+[Javascript Algorithms And Data Structures Certification]: https://learn.freecodecamp.org/
+[Front End Libraries Certification]: https://learn.freecodecamp.org/
+[Data Visualization Certification]: https://learn.freecodecamp.org/
+[Apis And Microservices Certification]: https://learn.freecodecamp.org/
+[Information Security And Quality Assurance Certification]: https://learn.freecodecamp.org/
+[Coding Interview Prep]: https://learn.freecodecamp.org/
+[JavaScript30]: https://javascript30.com/
 [Introduction To Python Programming]: https://www.udemy.com/pythonforbeginnersintro/
 [Laravel From Scratch]: https://www.youtube.com/playlist?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-
 [PHP Front To Back]: https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn
