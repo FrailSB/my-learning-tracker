@@ -86,7 +86,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Date   | Course                                                          | Tutor                                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Soon][Soon]               |          | [The Complete App Design Course - UX, UI and Design Thinking]   | App Brewery Co.                              |
+| ![Completed][Completed]     | June 2019| [The Complete App Design Course - UX, UI and Design Thinking]   | App Brewery Co.                              |
 | ![Completed][Completed]     | Dec 2018 | [Pre-Programming: Everything you need to know before you code]  | Evan Kimbrell                                |
 | ![In Progress][In Progress] |          | [Responsive Web Design Certification]                           | FFC                                          |
 | ![In Progress][In Progress] |          | [Javascript Algorithms And Data Structures Certification]       | FFC                                          |
