@@ -182,4 +182,4 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 ### Acknowledgments
 
-This has been mostly inspired by **[Syk Houdeib](https://github.com/Syknapse)** a **Frontend Developer**. Huge thanks to **[Brad Traversy](https://github.com/bradtraversy)** who contribute most of my learning in web development and I admire the most. And of course to [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
+This tracker has been mostly inspired by **[Syk Houdeib](https://github.com/Syknapse)** a **Frontend Developer**, I am very thankful to him for allowing me to use his work. Huge thanks to **[Brad Traversy](https://github.com/bradtraversy)** who contribute most of my learning in web development and I admire the most. And of course to [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
