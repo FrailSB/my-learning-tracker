@@ -47,7 +47,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Adonis**                        |                   |               |               |                  |                |                 |
 |**Django**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Flask**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Laravel**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Laravel**                       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Sympony**                       |                   |               |               |                  |                |                 |
 |**Yii**                           |                   |               |               |                  |                |                 |
 |**MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
@@ -98,7 +98,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Soon][Soon]               |          | [JavaScript30]                                                  | Wes Bos                                      |
 | ![Completed][Completed]     | Dec 2018 | [Introduction To Python Programming]                            | Avinash Jain                                 |
 | ![In Progress][In Progress] |          | [PHP Front To Back]                                             | Brad Traversy                                |
-| ![In Progress][In Progress] |          | [Laravel From Scratch]                                          | Brad Traversy                                |
+| ![Completed][Completed]     |          | [Laravel From Scratch]                                          | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Modern HTML & CSS From The Beginning (Including Sass)]         | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Modern JavaScript From The Beginning]                          | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Bootstrap 4 From Scratch With 5 Projects]                      | Brad Traversy                                |
