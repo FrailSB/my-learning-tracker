@@ -6,4 +6,6 @@
 
 **Description**: This is a laravel blog application from the "Laravel From Scratch" youtube series.
 
-**[User Interface]() | [Project Link]()**
+**Link To Work**: [User Interface]()
+
+**Link To Work**: [Project Link]()
