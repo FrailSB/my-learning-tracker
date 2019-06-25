@@ -98,7 +98,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Soon][Soon]               |          | [JavaScript30]                                                  | Wes Bos                                      |
 | ![Completed][Completed]     | Dec 2018 | [Introduction To Python Programming]                            | Avinash Jain                                 |
 | ![In Progress][In Progress] |          | [PHP Front To Back]                                             | Brad Traversy                                |
-| ![Completed][Completed]     | Jun 2018 | [Laravel From Scratch]                                          | Brad Traversy                                |
+| ![Completed][Completed]     | Jun 2019 | [Laravel From Scratch]                                          | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Modern HTML & CSS From The Beginning (Including Sass)]         | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Modern JavaScript From The Beginning]                          | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Bootstrap 4 From Scratch With 5 Projects]                      | Brad Traversy                                |
