@@ -7,6 +7,6 @@
 
 **LSAPP**
 
-This is a laravel blog application from the "Laravel From Scratch" youtube series.
+**This is a laravel blog application from the "Laravel From Scratch" youtube series.**
 
-[User Interface]() | [Project Link]()
+**[User Interface]() | [Project Link]()**
