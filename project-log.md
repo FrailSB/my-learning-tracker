@@ -6,4 +6,4 @@
 
 **Description**: This is a laravel blog application from the "Laravel From Scratch" youtube series.
 
-**[User Interface]() | [Project Link]()**
+**[User Interface](https://johnfrail.github.io/lsapp-ui/) | [Project Link](https://github.com/johnfrail/lsapp)**
