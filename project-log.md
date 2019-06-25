@@ -1,12 +1,9 @@
 # Project Log
 
----
----
-
 ### June 25, 2019
 
-**LSAPP**
+**Project Name**: LSAPP
 
-**This is a laravel blog application from the "Laravel From Scratch" youtube series.**
+**Description**: This is a laravel blog application from the "Laravel From Scratch" youtube series.
 
 **[User Interface]() | [Project Link]()**
