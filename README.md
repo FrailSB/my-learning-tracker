@@ -35,7 +35,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 -->
 |             Backend              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**Node.js**&nbsp;&nbsp;           |                   |               |               |                  |                |                 |
+|**Node.js**                       |                   |               |               |                  |                |                 |
 |**Python**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**PHP**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**C#**                            |                   |               |               |                  |                |                 |
@@ -43,7 +43,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Flask**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Laravel**                       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**PostgreSQL**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**PostgreSQL**&nbsp;&nbsp;        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**MongoDB**                       |                   |               |               |                  |                |                 |
 <!--|**Go**                            |                   |               |               |                  |                |                 |
 |**Ruby**                          |                   |               |               |                  |                |                 |
