@@ -39,19 +39,19 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Python**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**PHP**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**C#**                            |                   |               |               |                  |                |                 |
+|**Django**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Flask**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Laravel**                       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**PostgreSQL**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**MongoDB**                       |                   |               |               |                  |                |                 |
 <!--|**Go**                            |                   |               |               |                  |                |                 |
 |**Ruby**                          |                   |               |               |                  |                |                 |
 |**Express.js**                    |                   |               |               |                  |                |                 |
 |**Koa**                           |                   |               |               |                  |                |                 |
 |**Adonis**                        |                   |               |               |                  |                |                 |-->
-|**Django**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Flask**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Laravel**                       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 <!--|**Sympony**                       |                   |               |               |                  |                |                 |
 |**Yii**                           |                   |               |               |                  |                |                 |-->
-|**MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**PostgreSQL**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**MongoDB**                       |                   |               |               |                  |                |                 |
 <!--|**Couchbase**                     |                   |               |               |                  |                |                 |
 |**Firebase**                      |                   |               |               |                  |                |                 |
 |**Next.js**                       |                   |               |               |                  |                |                 |
@@ -89,15 +89,15 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Dec 2018 | [Pre-Programming: Everything you need to know before you code]  | Evan Kimbrell                                |
 | ![In Progress][In Progress] |          | [Responsive Web Design Certification]                           | FFC                                          |
 | ![In Progress][In Progress] |          | [Javascript Algorithms And Data Structures Certification]       | FFC                                          |
+| ![Completed][Completed]     | Dec 2018 | [Introduction To Python Programming]                            | Avinash Jain                                 |
+| ![In Progress][In Progress] |          | [PHP Front To Back]                                             | Brad Traversy                                |
+| ![Completed][Completed]     | Jun 2019 | [Laravel From Scratch]                                          | Brad Traversy                                |
 <!--| ![Soon][Soon]               |          | [Front End Libraries Certification]                             | FFC                                          |
 | ![Soon][Soon]               |          | [Data Visualization Certification]                              | FFC                                          |
 | ![Soon][Soon]               |          | [Apis And Microservices Certification]                          | FFC                                          |
 | ![Soon][Soon]               |          | [Information Security And Quality Assurance Certification]      | FFC                                          |
 | ![Soon][Soon]               |          | [Coding Interview Prep]                                         | FFC                                          |
 | ![Soon][Soon]               |          | [JavaScript30]                                                  | Wes Bos                                      |-->
-| ![Completed][Completed]     | Dec 2018 | [Introduction To Python Programming]                            | Avinash Jain                                 |
-| ![In Progress][In Progress] |          | [PHP Front To Back]                                             | Brad Traversy                                |
-| ![Completed][Completed]     | Jun 2019 | [Laravel From Scratch]                                          | Brad Traversy                                |
 <!--| ![Soon][Soon]               |          | [Modern HTML & CSS From The Beginning (Including Sass)]         | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Modern JavaScript From The Beginning]                          | Brad Traversy                                |
 | ![In Progress][In Progress] |          | [Bootstrap 4 From Scratch With 5 Projects]                      | Brad Traversy                                |
