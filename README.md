@@ -43,7 +43,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Flask**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Laravel**                       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**PostgreSQL**&nbsp;&nbsp;        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**PostgreSQL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**MongoDB**                       |                   |               |               |                  |                |                 |
 <!--|**Go**                            |                   |               |               |                  |                |                 |
 |**Ruby**                          |                   |               |               |                  |                |                 |
