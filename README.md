@@ -16,48 +16,47 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Css Grid**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Flex-box**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Sass**                          |                   |               |               |                  |                |                 |
+|**Sass**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**Bulma**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Materialize**                   |                   |               |               |                  |                |                 |
-|**React.js**                      |                   |               |               |                  |                |                 |
+|**Materialize**                   | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+<!-- |**React.js**                      |                   |               |               |                  |                |                 |
 |**Vue**                           |                   |               |               |                  |                |                 |
 |**Angular**                       |                   |               |               |                  |                |                 |
 |**Redux**                         |                   |               |               |                  |                |                 |
 |**Apollo**                        |                   |               |               |                  |                |                 |
 |**VueX**                          |                   |               |               |                  |                |                 |
 |**NgRx**                          |                   |               |               |                  |                |                 |
-
-
+-->
 |             Backend              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**Node.js**                       |                   |               |               |                  |                |                 |
 |**Python**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**PHP**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**C#**                            |                   |               |               |                  |                |                 |
-|**Go**                            |                   |               |               |                  |                |                 |
+<!--|**Go**                            |                   |               |               |                  |                |                 |
 |**Ruby**                          |                   |               |               |                  |                |                 |
 |**Express.js**                    |                   |               |               |                  |                |                 |
 |**Koa**                           |                   |               |               |                  |                |                 |
-|**Adonis**                        |                   |               |               |                  |                |                 |
+|**Adonis**                        |                   |               |               |                  |                |                 |-->
 |**Django**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Flask**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Laravel**                       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Sympony**                       |                   |               |               |                  |                |                 |
-|**Yii**                           |                   |               |               |                  |                |                 |
+<!--|**Sympony**                       |                   |               |               |                  |                |                 |
+|**Yii**                           |                   |               |               |                  |                |                 |-->
 |**MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**PostgreSQL**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**MongoDB**                       |                   |               |               |                  |                |                 |
-|**Couchbase**                     |                   |               |               |                  |                |                 |
+<!--|**Couchbase**                     |                   |               |               |                  |                |                 |
 |**Firebase**                      |                   |               |               |                  |                |                 |
 |**Next.js**                       |                   |               |               |                  |                |                 |
 |**Nuxt.js**                       |                   |               |               |                  |                |                 |
-|**Angular Universal**&nbsp;&nbsp; |                   |               |               |                  |                |                 |
+|**Angular Universal**&nbsp;&nbsp; |                   |               |               |                  |                |                 |-->
 
 
 |   Additional Skills              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
@@ -90,16 +89,16 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Dec 2018 | [Pre-Programming: Everything you need to know before you code]  | Evan Kimbrell                                |
 | ![In Progress][In Progress] |          | [Responsive Web Design Certification]                           | FFC                                          |
 | ![In Progress][In Progress] |          | [Javascript Algorithms And Data Structures Certification]       | FFC                                          |
-| ![Soon][Soon]               |          | [Front End Libraries Certification]                             | FFC                                          |
+<!--| ![Soon][Soon]               |          | [Front End Libraries Certification]                             | FFC                                          |
 | ![Soon][Soon]               |          | [Data Visualization Certification]                              | FFC                                          |
 | ![Soon][Soon]               |          | [Apis And Microservices Certification]                          | FFC                                          |
 | ![Soon][Soon]               |          | [Information Security And Quality Assurance Certification]      | FFC                                          |
 | ![Soon][Soon]               |          | [Coding Interview Prep]                                         | FFC                                          |
-| ![Soon][Soon]               |          | [JavaScript30]                                                  | Wes Bos                                      |
+| ![Soon][Soon]               |          | [JavaScript30]                                                  | Wes Bos                                      |-->
 | ![Completed][Completed]     | Dec 2018 | [Introduction To Python Programming]                            | Avinash Jain                                 |
 | ![In Progress][In Progress] |          | [PHP Front To Back]                                             | Brad Traversy                                |
 | ![Completed][Completed]     | Jun 2019 | [Laravel From Scratch]                                          | Brad Traversy                                |
-| ![Soon][Soon]               |          | [Modern HTML & CSS From The Beginning (Including Sass)]         | Brad Traversy                                |
+<!--| ![Soon][Soon]               |          | [Modern HTML & CSS From The Beginning (Including Sass)]         | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Modern JavaScript From The Beginning]                          | Brad Traversy                                |
 | ![In Progress][In Progress] |          | [Bootstrap 4 From Scratch With 5 Projects]                      | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Materialize CSS From Scratch With 5 Projects]                  | Brad Traversy                                |
@@ -108,7 +107,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Soon][Soon]               |          | [MERN Stack Front To Back: Full Stack React, Redux & Node.js]   | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Python Django Dev To Deployment]                               | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Object Oriented PHP & MVC]                                     | Brad Traversy                                |
-| ![Soon][Soon]               |          | [Angular Front To Back]                                         | Brad Traversy                                |
+| ![Soon][Soon]               |          | [Angular Front To Back]                                         | Brad Traversy                                |-->
 
 [//]: # (Reference links to courses)
 
@@ -176,7 +175,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
 * [x] Get paid to code
-* [ ] When people ask what you do, respond saying you’re a developer :)
+* [x] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
