@@ -101,7 +101,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Jun 2019 | [Laravel From Scratch]                                          | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Modern HTML & CSS From The Beginning (Including Sass)]         | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Modern JavaScript From The Beginning]                          | Brad Traversy                                |
-| ![Soon][Soon]               |          | [Bootstrap 4 From Scratch With 5 Projects]                      | Brad Traversy                                |
+| ![In Progress][In Progress] |          | [Bootstrap 4 From Scratch With 5 Projects]                      | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Materialize CSS From Scratch With 5 Projects]                  | Brad Traversy                                |
 | ![Soon][Soon]               |          | [React Front To Back 2019 (Hooks, Context, MERN & Redux)]       | Brad Traversy                                |
 | ![Soon][Soon]               |          | [Node.js, Express & MongoDB Dev to Deployment]                  | Brad Traversy                                |
