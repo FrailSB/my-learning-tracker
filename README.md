@@ -35,7 +35,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 -->
 |             Backend              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**Node.js**                       |                   |               |               |                  |                |                 |
+|**Node.js**&nbsp;&nbsp;           |                   |               |               |                  |                |                 |
 |**Python**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**PHP**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**C#**                            |                   |               |               |                  |                |                 |
