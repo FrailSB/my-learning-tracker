@@ -1,6 +1,6 @@
 # MY LEARNING TRACKER
 
-A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
+A complete log of my development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
 **[Project Log](https://github.com/johnfrail/my-learning-tracker/blob/master/project-log.md)**
 
@@ -148,7 +148,7 @@ I'm currently interested in/excited about:
 
 ----
 
-## Web Development Checklist
+## Development Checklist
 
 This is a list of basic objectives to meet on the road to mastering web development.
 
