@@ -92,6 +92,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 | ![Completed][Completed]     | Dec 2018 | [Introduction To Python Programming]                            | Avinash Jain                                 |
 | ![In Progress][In Progress] |          | [PHP Front To Back]                                             | Brad Traversy                                |
 | ![Completed][Completed]     | Jun 2019 | [Laravel From Scratch]                                          | Brad Traversy                                |
+| ![In Progress][In Progress] |          | [C# Basics for Beginners: Learn C# Fundamentals by Coding]      | Mosh Hamedani                                |
 <!--| ![Soon][Soon]               |          | [Front End Libraries Certification]                             | FFC                                          |
 | ![Soon][Soon]               |          | [Data Visualization Certification]                              | FFC                                          |
 | ![Soon][Soon]               |          | [Apis And Microservices Certification]                          | FFC                                          |
@@ -134,6 +135,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 [Python Django Dev To Deployment]: https://www.udemy.com/python-django-dev-to-deployment/
 [Object Oriented PHP & MVC]: https://www.udemy.com/object-oriented-php-mvc/
 [Angular Front To Back]: https://www.udemy.com/angular-4-front-to-back/
+[C# Basics for Beginners: Learn C# Fundamentals by Coding]: https://www.udemy.com/csharp-tutorial-for-beginners/
 
 ----
 
