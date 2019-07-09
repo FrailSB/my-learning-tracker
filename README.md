@@ -160,12 +160,12 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Open the computer’s terminal
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
-* [ ] Write tests for your code
-* [ ] Help another web developer with something they’re having trouble with
+* [x] Write tests for your code
+* [x] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
 * [x] Follow developers you admire on social media
 * [ ] Read a book about coding
-* [ ] Open your browser console
+* [x] Open your browser console
 * [ ] Get data from an API
 * [ ] Hide API keys from the public
 * [ ] Post a question on Stack Overflow
